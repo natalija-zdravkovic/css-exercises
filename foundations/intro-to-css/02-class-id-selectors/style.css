@@ -4,7 +4,7 @@
 
 }
 
-.cool_number {
+.cool {
     font-size: 24px;
 }
 
@@ -15,6 +15,5 @@
 
 #number_4 {
     background-color: hsl(120, 73%, 75%);
-    font-size: 24px;
     font-weight: bold;
 }
