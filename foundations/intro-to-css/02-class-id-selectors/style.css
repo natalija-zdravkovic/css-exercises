@@ -8,3 +8,13 @@
     font-size: 24px;
 }
 
+#number_2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#number_4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
